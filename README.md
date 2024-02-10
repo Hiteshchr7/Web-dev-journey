@@ -1,2 +1,2 @@
 # Web dev journey
- Starting into world of web development
+Diving into world of web development
