@@ -1,0 +1,1 @@
+alert("Welcome onto a new stage.")
